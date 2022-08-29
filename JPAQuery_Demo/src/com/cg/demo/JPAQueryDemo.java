@@ -8,6 +8,7 @@ import javax.persistence.Persistence;
 import javax.persistence.Query;
 
 public class JPAQueryDemo {
+	@SuppressWarnings("unchecked")
 	public static void main(String args[])
 	{
 		try
